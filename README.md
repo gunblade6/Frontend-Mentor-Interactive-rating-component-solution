@@ -34,8 +34,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [https://fementor-rating-component.netlify.app/](https://fementor-rating-component.netlify.app/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-bcbOyVzvhw)
+- Live Site URL: [Live](https://fementor-rating-component.netlify.app/)
 
 ## My process
 
@@ -84,7 +84,7 @@ I will start getting some more information about module (import and export) as I
 ## Author
 
 - Website - [Mohamed](https://www.mohamed-dev.netlify.app)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@midoashraf010](https://www.frontendmentor.io/profile/midoashraf010)
 
 ## Acknowledgments
 
