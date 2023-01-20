@@ -202,6 +202,7 @@ ul {
 #thankYouCard .content {
   align-items: center;
   text-align: center;
+  position: relative;
 }
 #thankYouCard .selected p {
   color: var(--orange);
@@ -239,6 +240,23 @@ button.disabled:hover {
 
 #errorMessage {
   display: none;
+}
+#return {
+  position: absolute;
+  color: var(--white);
+  font-weight: bold;
+  top: 1.5rem;
+  right: 1.5rem;
+  text-decoration: none;
+  transition: 300ms;
+  font-size: 1.5rem;
+  -webkit-transition: 300ms;
+  -moz-transition: 300ms;
+  -ms-transition: 300ms;
+  -o-transition: 300ms;
+}
+#return:hover {
+  color: var(--orange);
 }
 @keyframes shake {
   0% {
